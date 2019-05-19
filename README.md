@@ -18,7 +18,7 @@ Tout ceci pour tout regrouper dans un dernier silo sous la surface respectant la
 On passera par plusieurs étapes : 
 
 
-- Dépiler* le réacteur défaillant par le haut et tout rentrer dans un silo temporaire sous le sol. * 
+- Dépiler** le réacteur défaillant par le haut et tout rentrer dans un silo temporaire sous le sol. * 
 
 - Utiliser un procédé permettant de déplacer les conteneurs 1 par 1 afin de réaliser automatiquement le plan d'évacuation. ** 
 
@@ -45,8 +45,8 @@ Attribution des tâches :
 
    
 
-* Cours / mimo sur les Piles & files 
+** Cours / mimo sur les Piles & files 
 
-** On utilisera une fonction reverse 
+*** On utilisera une fonction reverse 
 
-*** Procédé de la tour de hanoï avec paramètres adaptés  
+**** Procédé de la tour de hanoï avec paramètres adaptés  

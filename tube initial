@@ -1,0 +1,16 @@
+def remplissage_tube_initial():    
+    def creer_pile():
+        return[]
+    def empiler(x,pile):
+        pile.append(x)
+
+def vidage_tube_initial():
+    def defiler(file):
+        return file.pop(0)
+    
+
+def tube_initial():
+pile=[]
+pile.append(x)
+file=pile
+file.pop(0)

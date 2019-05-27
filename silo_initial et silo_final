@@ -1,0 +1,25 @@
+###
+#def silo_initial(x):  #creer une file
+def filevide():
+    return []
+f=filevide()
+def enfiler(x,file):
+    file.append(x)
+    return file
+file=enfiler(f,x)
+
+def defiler(file):
+    return file.pop(0)
+val=file.pop(0)
+
+
+#def silo_temporaire(x):
+def silo_temp():
+    return []
+pile=silo_temp()
+
+def empiler(pile,e):
+    pile.append(e)
+    return pile
+empiler(silo_temp,val)
+###
